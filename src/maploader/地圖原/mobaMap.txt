@@ -1,0 +1,9 @@
+beltRollLeft,-10092442,C:\Users\User\Desktop\期中遊戲\美術素材\BombChicken 自製\belt\排好的圖片\belt1.png,8,1
+beltRollRight,-6750055,C:\Users\User\Desktop\期中遊戲\美術素材\BombChicken 自製\belt\排好的圖片\belt2.png,8,1
+steel,-10066330,C:\Users\User\Desktop\期中遊戲\美術素材\BombChicken 自製\wall\steel.png,1,1
+wall1,-16777114,C:\Users\User\Desktop\期中遊戲\美術素材\BombChicken 自製\wall\wall1.png,4,2
+wall2,-16764109,C:\Users\User\Desktop\期中遊戲\美術素材\BombChicken 自製\wall\wall2.png,2,2
+spike,-6710887,C:\Users\User\Desktop\期中遊戲\美術素材\BombChicken 自製\spike\spike_shine\spike_shine01.png,1,1
+brick,-10066432,C:\Users\User\Desktop\期中遊戲\美術素材\BombChicken 自製\wall\brickWall.png,1,1
+gemWall,-16763905,C:\Users\User\Desktop\期中遊戲\美術素材\BombChicken 自製\gem\gem_wall\breakable_big_gem01.png,1,1
+chest,-16737997,C:\Users\User\Desktop\期中遊戲\美術素材\BombChicken 自製\gem\gem_chest\chest_01.png,1,1
